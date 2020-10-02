@@ -2,7 +2,6 @@
 Welcome To 
 Diabetes Prediction Using Logistic Regression
 </h1>
-<br>
 ![GitHub Logo](/Images/1.jpeg)
 ![GitHub Logo](/Images/2.jpeg)
 ![GitHub Logo](/Images/3.jpeg)
