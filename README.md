@@ -1,7 +1,6 @@
 <h1 align='center'> Hi! :wave:<br>
-MACHINE LEARNING <br>
-LOGISTIC REGRESSION <br>
-DIABETES PREDICTION USING LOGISTIC REGRESSION
+Welcome To 
+Diabetes Prediction Using Logistic Regression
 </h1>
 
 ![GitHub Logo](/Images/1.jpeg)
