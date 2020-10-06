@@ -1,5 +1,5 @@
 <h1 align='center'> Hi! :wave:<br><br>
-Welcome To Diabetes Prediction Using Logistic Regression	Diabetes Prediction Using Logistic Regression
+Welcome To Diabetes Prediction Using Logistic Regression
 </h1>	</h1>
 
 ![GitHub Logo](/Images/1.jpeg)	![GitHub Logo](/Images/1.jpeg)
